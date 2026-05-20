@@ -36,8 +36,8 @@ Railway
 📷 Project Screenshots
 
 
-<img width="1902" height="742" alt="Screenshot 2026-05-19 083954" src="https://github.com/user-attachments/assets/3334ac72-7923-4f98-915b-1bd434b6c40e" />
-<img width="1912" height="831" alt="Screenshot 2026-05-19 083707" src="https://github.com/user-attachments/assets/fcc17434-3b1d-4be8-a71b-4981c07f65f8" />
+<img width="1912" height="831" alt="Screenshot 2026-05-19 083707" src="https://github.com/user-attachments/assets/57056d09-db0a-49c8-82a4-db8afb8d23ee" />
+
 
 <img width="1917" height="831" alt="image" src="https://github.com/user-attachments/assets/c66d4288-681f-484b-8187-49a1ee3e621b" />
 
@@ -55,8 +55,10 @@ Railway
 
 🔐 Login / Signup Page
 
-<img width="1715" height="876" alt="Screenshot 2026-05-19 084056" src="https://github.com/user-attachments/assets/06e79586-9ea7-47fb-af60-f687cdd24588" />
-<img width="1853" height="848" alt="Screenshot 2026-05-19 084046" src="https://github.com/user-attachments/assets/9adadb32-2b8a-4cb0-9261-4db05a51a067" />
+<img width="1853" height="848" alt="Screenshot 2026-05-19 084046" src="https://github.com/user-attachments/assets/481cc4f0-6ead-49fb-ad0d-83dea2b6ecfe" />
+<img width="1715" height="876" alt="Screenshot 2026-05-19 084056" src="https://github.com/user-attachments/assets/bd9173d2-6838-4d18-8034-5bf6a6d36163" />
+
+
 
 
 
