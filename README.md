@@ -48,7 +48,6 @@ Railway
 
 
 
-<img width="1887" height="816" alt="image" src="https://github.com/user-attachments/assets/decfd054-9fb7-47c5-80c5-01c251175fbf" />
 
 
 🔐 Login / Signup Page
