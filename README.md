@@ -6,7 +6,7 @@ TaskNova is a modern full-stack task management web application designed to help
 🌐 Live Demo
 
 🔗 Live Website:
-https://tasknova-frontend-production.up.railway.app/
+https://web-production-17582.up.railway.app/
 
 📌 Features
 
@@ -100,7 +100,7 @@ The application is deployed on Railway for live hosting and accessibility.
 👨‍💻 Author
 Tanya Sharma
 
-🔗 GitHub Profile: Add Your GitHub Profile Link
+🔗 GitHub Profile: https://github.com/tanyasharma04
 
 ⭐ Future Enhancements
 Dark Mode
