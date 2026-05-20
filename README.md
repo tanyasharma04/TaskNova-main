@@ -35,7 +35,7 @@ Railway
 
 📷 Project Screenshots
 
-<img width="1170" height="911" alt="Screenshot 2026-05-19 084007" src="https://github.com/user-attachments/assets/98a9af48-41ee-4cf1-9ac1-97611009f961" />
+
 <img width="1902" height="742" alt="Screenshot 2026-05-19 083954" src="https://github.com/user-attachments/assets/3334ac72-7923-4f98-915b-1bd434b6c40e" />
 <img width="1912" height="831" alt="Screenshot 2026-05-19 083707" src="https://github.com/user-attachments/assets/fcc17434-3b1d-4be8-a71b-4981c07f65f8" />
 
